@@ -1,0 +1,5 @@
+FirstName,LastName,Email,Phone,Gender,Status,Profile,Location,DateCreated,DateUpdated
+John,Doe,john@gmail.com,7676796745,Male,Active,image-1725419531463.man.png,Gujarat,Wed Sep 04 2024 08:42:11 GMT+0530 (India Standard Time),-
+Dave,Gray,dave@gmail.com,8219675847,Male,Active,image-1725420118181.user.png,Hyderabad,Wed Sep 04 2024 08:51:58 GMT+0530 (India Standard Time),-
+Nithin,Gatagary,nithin@gmail.com,6361895475,Male,InActive,image-1725420179486.profile.png,Ahemadabad,Wed Sep 04 2024 08:52:59 GMT+0530 (India Standard Time),-
+Sheela,Bosh,she@gmail.com,6361854796,Female,Active,image-1725420229817.man1.png,Gujarat,Wed Sep 04 2024 08:53:49 GMT+0530 (India Standard Time),-
