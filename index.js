@@ -4,7 +4,7 @@ const app = express()
 const cors = require("cors")
 require("./db/conn.js")
 const router = require("./Routes/router.js")
-const PORT = 3000
+const PORT = process.env.PORT || 3000
 
 app.use(cors())
 app.use(express.json())
